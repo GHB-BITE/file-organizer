@@ -2,6 +2,18 @@
 
 A simple and efficient Python desktop application to automatically organize files into categorized folders based on their extensions.
 
+📸 Preview
+🖼️ Interface
+
+
+<img width="400" height="282" alt="Capture" src="https://github.com/user-attachments/assets/5070e648-c0c1-44a1-9c09-1770b06f30c1" />
+
+🎥 Demo (How it works)
+
+![Animation](https://github.com/user-attachments/assets/c9fc6a7c-ce95-4320-99c4-e477372ee9f0)
+
+
+
 ## 🚀 Features
 
 * Smart file sorting (Images, Videos, Music, Documents, etc.)
