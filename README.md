@@ -66,4 +66,4 @@ Selected Folder/
 
 ---
 
-🔥 Built for productivity and clean workspace management.
+Built with ❤️ by GHB-BITE
