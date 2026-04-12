@@ -10,7 +10,8 @@ File Organizer Pro is a modern, professional desktop application designed to aut
 🖼️ Interface
 
 
-<img width="400" height="282" alt="Capture" src="https://github.com/user-attachments/assets/5070e648-c0c1-44a1-9c09-1770b06f30c1" />
+<img width="901" height="712" alt="1" src="https://github.com/user-attachments/assets/8cd35835-3ad9-4635-bebe-2599e3e75c00" />
+
 
 ---
 
@@ -44,29 +45,44 @@ Built-in Categories Include:
 
 ⚙ User Customization Capabilities
 
+
+<img width="914" height="721" alt="2" src="https://github.com/user-attachments/assets/8d2dadb3-8497-48cb-88b3-46005d1c5f8d" />
+
+
 The system provides flexible customization options, allowing users to tailor the categorization process to match their specific workflow requirements.
 
 Available Options:
 
 ✔ Edit existing categories to refine classification logic
+
 ✔ Create custom categories for new or specialized file types
+
 ✔ Remove unused categories to maintain a clean configuration
+
 ✔ Modify file extensions assigned to each category
+
 ✔ Restore default settings at any time when needed
 
 ---
 
+## 📦 How It Works
 
 
-🎥 Demo (How it works)
+![fiver 1](https://github.com/user-attachments/assets/3b236376-087f-4316-b1db-0bf2b4f2716b)
 
-![Animation](https://github.com/user-attachments/assets/c9fc6a7c-ce95-4320-99c4-e477372ee9f0)
 
+
+1. Select a folder
+2. Click **"Organize Files"**
+3. Files are sorted into folders by type
 
 
 ---
 
 ↩ Undo Support (Operation Recovery)
+
+<img width="914" height="721" alt="3" src="https://github.com/user-attachments/assets/903a8a61-def9-4465-abb8-1ee97cf4acc5" />
+
 
 The application includes a built-in rollback system that allows users to safely revert the most recent operation whenever needed. This ensures that any unintended changes can be quickly corrected without manual effort.
 
@@ -81,6 +97,10 @@ This recovery mechanism adds an extra layer of safety, giving users confidence w
 ---
 
 📊 Statistics Dashboard
+
+<img width="902" height="716" alt="4" src="https://github.com/user-attachments/assets/92e5398f-7b08-4dee-abd9-1ae19c3056f6" />
+
+
 
 The Statistics Dashboard gives a simple overview of your file organization process in real time.
 
@@ -102,11 +122,6 @@ It helps you quickly understand how your files are organized in a clear and visu
 * pathlib
 * shutil
 
-## 📦 How It Works
-
-1. Select a folder
-2. Click **"Organize Files"**
-3. Files are sorted into folders by type
 
 ---
 
