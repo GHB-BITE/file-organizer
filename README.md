@@ -89,7 +89,9 @@ The application includes a built-in rollback system that allows users to safely 
 Undo Capabilities:
 
 ↩ Restore files to their original locations automatically
+
 🔁 Reverse the last sorting operation with a single action
+
 🛡 Protect against accidental file movements or incorrect sorting
 
 This recovery mechanism adds an extra layer of safety, giving users confidence when organizing important files.
@@ -107,8 +109,11 @@ The Statistics Dashboard gives a simple overview of your file organization proce
 Key Information:
 
 📄 Total number of files
+
 📦 Total file size
+
 🗂 Number of categories used
+
 📊 File type distribution chart
 
 It helps you quickly understand how your files are organized in a clear and visual way.
@@ -128,11 +133,19 @@ It helps you quickly understand how your files are organized in a clear and visu
 🎨 Interface Features:
 
 ✔ Modern design
+
 ✔ Professional layout
+
 ✔ Dark Mode support
+
 ✔ Light Mode support
+
 ✔ Responsive interface
+
 ✔ User-friendly navigation
+
+<img width="896" height="702" alt="وايت" src="https://github.com/user-attachments/assets/f7e7c0c9-603f-4fef-ba07-26d8010be5ac" />
+
 
 ---
 
