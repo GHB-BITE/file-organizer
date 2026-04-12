@@ -1,6 +1,22 @@
 # 📂 File Organizer Pro
 
-A simple and efficient Python desktop application to automatically organize files into categorized folders based on their extensions.
+📂 File Organizer Pro — Smart File Sorting Utility
+
+🧠 Overview
+
+File Organizer Pro is a modern, feature-rich desktop application designed to automatically organize messy folders into clean, categorized structures.
+
+Built with Python and CustomTkinter, the application provides a professional graphical interface that allows users to preview, analyze, and safely organize files into structured folders based on file types.
+
+It is ideal for:
+
+Developers
+Content creators
+Video editors
+Office users
+Anyone dealing with large messy folders
+
+This tool transforms chaos into structure in seconds.
 
 📸 Preview
 🖼️ Interface
