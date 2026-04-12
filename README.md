@@ -79,6 +79,12 @@ Available Options:
 
 ---
 
+✔ Result
+
+<img width="1200" height="896" alt="before and after" src="https://github.com/user-attachments/assets/d607a1fe-57dc-472d-8a1d-b2a49bbef42c" />
+
+---
+
 ↩ Undo Support (Operation Recovery)
 
 <img width="914" height="721" alt="3" src="https://github.com/user-attachments/assets/903a8a61-def9-4465-abb8-1ee97cf4acc5" />
