@@ -6,6 +6,14 @@ File Organizer Pro is a modern, professional desktop application designed to aut
 
 ---
 
+📸 Preview
+🖼️ Interface
+
+
+<img width="400" height="282" alt="Capture" src="https://github.com/user-attachments/assets/5070e648-c0c1-44a1-9c09-1770b06f30c1" />
+
+---
+
 🧩 Smart Categorization Engine
 
 The application uses a structured category database to automatically organize files based on their extensions.
@@ -32,29 +40,23 @@ Built-in Categories Include:
 
 ➕ And many more...
 
-User Customization Options:
+---
 
-✔ Edit existing categories
+⚙ User Customization Capabilities
 
-✔ Add new custom categories
+The system provides flexible customization options, allowing users to tailor the categorization process to match their specific workflow requirements.
 
-✔ Delete unused categories
+Available Options:
 
-✔ Modify file extensions
-
-✔ Restore default settings anytime
-
-Result:
-
-Flexible categorization allows the system to adapt to any workflow or file structure.
+✔ Edit existing categories to refine classification logic
+✔ Create custom categories for new or specialized file types
+✔ Remove unused categories to maintain a clean configuration
+✔ Modify file extensions assigned to each category
+✔ Restore default settings at any time when needed
 
 ---
 
-📸 Preview
-🖼️ Interface
 
-
-<img width="400" height="282" alt="Capture" src="https://github.com/user-attachments/assets/5070e648-c0c1-44a1-9c09-1770b06f30c1" />
 
 🎥 Demo (How it works)
 
@@ -66,48 +68,30 @@ Flexible categorization allows the system to adapt to any workflow or file struc
 
 ↩ Undo Support (Operation Recovery)
 
-The system supports rollback functionality, allowing users to revert the last operation.
+The application includes a built-in rollback system that allows users to safely revert the most recent operation whenever needed. This ensures that any unintended changes can be quickly corrected without manual effort.
 
-Undo Features:
+Undo Capabilities:
 
-↩ Restore files to original locations
+↩ Restore files to their original locations automatically
+🔁 Reverse the last sorting operation with a single action
+🛡 Protect against accidental file movements or incorrect sorting
 
-🔁 Reverse last sorting operation
-
-🛡 Protect against accidental changes
-
-Result:
-Provides fail-safe recovery, increasing system reliability.
-
-
----
-
-## 🚀 Features
-
-* Smart file sorting (Images, Videos, Music, Documents, etc.)
-* Automatic folder creation
-* Clean and minimal GUI (Tkinter)
-* Handles unknown file types safely
-* Fast and lightweight
+This recovery mechanism adds an extra layer of safety, giving users confidence when organizing important files.
 
 ---
 
 📊 Statistics Dashboard
 
-A built-in analytics system provides real-time insights into file organization.
+The Statistics Dashboard gives a simple overview of your file organization process in real time.
 
-Displayed Metrics:
+Key Information:
 
 📄 Total number of files
-
 📦 Total file size
+🗂 Number of categories used
+📊 File type distribution chart
 
-🗂 Number of categories
-
-📊 Distribution chart of file types
-
-Result:
-Transforms file organization into data-driven insights.
+It helps you quickly understand how your files are organized in a clear and visual way.
 
 ---
 
